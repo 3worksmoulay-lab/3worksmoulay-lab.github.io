@@ -1,2 +1,2 @@
-# 3worksmoulay-lab.enblocks.web
-My game website
+# https://3worksmoulay-lab.github.io/
+My enblocks game website
